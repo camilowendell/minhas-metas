@@ -7,8 +7,5 @@ for(let j=0;j<botoes.length;j++){
 botoes[j]
 }
 
-
-
-
 }
 }
